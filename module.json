@@ -31,7 +31,7 @@
     {
       "name": "stake",
       "label": "Stake",
-      "path": "packs/",
+      "path": "packs/stake",
       "type": "Item",
       "system": "pf2e",
       "flags": {}

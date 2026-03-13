@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "stake",
+  "title": "Stake",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A homebrew stake weapon for Pathfinder Second Edition, with a few unique weapons for slaying vampires with the gang.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,8 +29,8 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
+      "name": "stake",
+      "label": "Stake",
       "path": "packs/",
       "type": "Item",
       "system": "pf2e",
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/c8RbBpQC0fQ_"
 }
